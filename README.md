@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-- LinkedIn - www.linkedin.com/in/lana-anvar-123771256
+- LinkedIn - www.linkedin.com/in/lana-anvar
 - E-mail - lana.anvar03@gmail.com
 
 # 💻 Skills and Tech Stack:
