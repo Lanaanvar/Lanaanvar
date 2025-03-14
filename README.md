@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Lana!
-👩‍💻 AI ML Enthusiast | Aspiring Fullstack Developer<br>🎓 CS Student at CUSAT (Class of 2027) specializing in AI and Data Science<br>🏢 Eager to collaborate on innovative projects
+👩‍💻 AI ML Enthusiast | Aspiring Fullstack Developer<br>🎓 CS Student at CUSAT (Class of 2027) specializing in AI and Data Science<br>🖥️ Web Team Associate @ IEEE CUSAT SB<br>🏢 Eager to collaborate on innovative projects
 
 
 ## 🌐 Socials:
