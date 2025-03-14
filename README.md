@@ -5,6 +5,7 @@
 ## 🌐 Socials:
 - LinkedIn - www.linkedin.com/in/lana-anvar
 - Developer Profile - https://devb.io/Lanaanvar
+- Maker Profile - https://tinkerhub.org/@lanaanvar
 - E-mail - lana.anvar03@gmail.com
 
 # 💻 Skills and Tech Stack:
