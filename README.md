@@ -4,7 +4,6 @@
 
 ## 🌐 Socials:
 - LinkedIn - www.linkedin.com/in/lana-anvar
-- Portfolio - https://lana-portfolio-five.vercel.app
 - Developer Profile - https://devb.io/Lanaanvar
 - E-mail - lana.anvar03@gmail.com
 
