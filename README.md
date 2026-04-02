@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Lana!
-👩‍💻 AI ML Enthusiast<br>🎓 CS Student at CUSAT (Class of 2027) specializing in AI and Data Science<br>🏢 Eager to collaborate on innovative projects
+👩‍💻 Philomath<br>🎓 CS Student at CUSAT (Class of 2027) specializing in AI and Data Science<br>🏢 Eager to collaborate on innovative projects
 
 
 ## 🌐 Socials:
@@ -27,8 +27,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Lanaanvar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lanaanvar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanaanvar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Lanaanvar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
