@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+- Website - https://website-lana.vercel.app/
 - Substack - https://substack.com/@lanaanvar
 - LinkedIn - https://www.linkedin.com/in/lana-anvar
 - Maker Profile - https://tinkerhub.org/@lanaanvar
